@@ -14,6 +14,8 @@ A small application that randomly selects characters, which can be used for wind
 
 ```- Need [.Net 5.0 Framework] ```
 
+```Only work on Windows```
+
 ![圖片1](https://user-images.githubusercontent.com/13829717/190536212-a2ccd2a4-7921-44f6-aaf3-f424561e955f.png)
 
 使用在直播上，務必註明出處(置於關於頁、說明頁即可)

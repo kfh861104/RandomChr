@@ -4,7 +4,7 @@
 
 Put RandomChr.exe、RandomChr.pdb and the Pic folder in the same directory, and execute EXE.
 
-**<b>Need[.Net 5.0 Framework]</b>**
+```- Need [.Net 5.0 Framework]```
 
 ![圖片1](https://user-images.githubusercontent.com/13829717/190536212-a2ccd2a4-7921-44f6-aaf3-f424561e955f.png)
 

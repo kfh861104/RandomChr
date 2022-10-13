@@ -16,7 +16,7 @@ A small application that randomly selects characters and mode maps, which can be
 
 ```- Only work on Windows ```
 
-![001](https://user-images.githubusercontent.com/13829717/195486189-aa39836e-7e87-4908-9f45-db0c253fc6e8.png)
+![001](https://user-images.githubusercontent.com/13829717/195538094-41765fb7-6cf4-47c2-a998-da9ed7e79f24.png)
 ![002](https://user-images.githubusercontent.com/13829717/195486198-3bce1808-b58e-4d49-b0ba-400abd7052f1.png)
 
 使用在直播上，務必註明出處(置於關於頁、說明頁即可)
@@ -24,4 +24,5 @@ A small application that randomly selects characters and mode maps, which can be
 When using it on the live broadcast, be sure to indicate the source (it can be placed on the about page or the description page).
 
 [作者Twitter](https://twitter.com/kfh861104)
+
 

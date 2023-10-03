@@ -12,7 +12,7 @@ A small application that randomly selects characters and mode maps, which can be
 
 	 Put RandomChr.exe、RandomChr.pdb and the Pic、map folder in the same directory, and execute EXE.
 
-	 *1.0.5版後直接整個rar下載即可。
+	 *1.0.5版後直接下載整個RAR即可。
   
 	 *After 1.0.5 version, just download the entire RAR.
 

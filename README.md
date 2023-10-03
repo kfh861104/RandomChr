@@ -16,8 +16,10 @@ A small application that randomly selects characters and mode maps, which can be
 
 ```- Only work on Windows ```
 
-![001](https://user-images.githubusercontent.com/13829717/195538094-41765fb7-6cf4-47c2-a998-da9ed7e79f24.png)
-![002](https://user-images.githubusercontent.com/13829717/195486198-3bce1808-b58e-4d49-b0ba-400abd7052f1.png)
+![image](https://github.com/kfh861104/RandomChr/assets/13829717/db1fabb1-3df5-4866-b6e0-6d15e48bc59c)
+![image](https://github.com/kfh861104/RandomChr/assets/13829717/12b9534f-9f83-422f-842d-e96b5405ec4f)
+
+![image](https://github.com/kfh861104/RandomChr/assets/13829717/caad95ab-2e2e-44ac-a487-d4dd26f0b408)
 
 使用在直播上，務必註明出處(置於關於頁、說明頁即可)
 

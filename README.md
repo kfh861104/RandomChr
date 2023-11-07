@@ -29,6 +29,6 @@ A small application that randomly selects characters and mode maps, which can be
 
 When using it on the live broadcast, be sure to indicate the source (it can be placed on the about page or the description page).
 
-[作者Twitter](https://wlo.link/kfh861104)
+[作者Link Space](https://wlo.link/@kfh861104)
 
 
